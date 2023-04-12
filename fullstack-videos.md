@@ -16,7 +16,7 @@
 - [Create React App With Netlify](https://github.com/9-1-pursuit/guide-deployment/tree/main/netlify-create-react-app)
 - [Fly.io with Express & PostgreSQL](https://github.com/9-1-pursuit/guide-deployment/tree/main/fly-express-postgres)
 
-### Basic NodeJS User Auth Videos
+### Basic ExpressJS User Auth Videos
 
 - [Part 1: Signup](https://drive.google.com/file/d/1G-7MlpZKhXCojp9_FbvdLLius4n_O8QK/view?usp=sharing)
 
