@@ -2,11 +2,17 @@
 
 - [Netlify Frontend Deployment](https://drive.google.com/file/d/1am3ljqxJTyvPQ5hzlsaU7o_bf6-lA4UK/view?usp=sharing)
 
-- [Render.io Backend Deployment No Database](https://drive.google.com/file/d/1JefmByjhsh8zoLwzpwdv-Hn9Wg4ezaOB/view?usp=sharing)
+- [Render.com Backend Deployment No Database](https://drive.google.com/file/d/1JefmByjhsh8zoLwzpwdv-Hn9Wg4ezaOB/view?usp=sharing)
 
-- [Render.io Backend Deployment With Database](https://drive.google.com/file/d/1_egu17vjEOjk6Hm94-yPTB2KYDGrISLq/view?usp=share_link)
+- [Render.com Backend Deployment With Database](https://drive.google.com/file/d/1_egu17vjEOjk6Hm94-yPTB2KYDGrISLq/view?usp=share_link)
 
 - [Cloudinary Image Storage](https://drive.google.com/file/d/1RNs4cFcqdAPM4Lqt-eJTfk8PADDUvQY0/view?usp=sharing)
+
+### Deployment Docs
+
+- [Render.com Deployment Guide with Express & PostgreSQL](https://github.com/9-1-pursuit/guide-deployment/tree/main/render-express-postgres)
+- [Create React App With Netlify](https://github.com/9-1-pursuit/guide-deployment/tree/main/netlify-create-react-app)
+- [Fly.io with Express & PostgreSQL](https://github.com/9-1-pursuit/guide-deployment/tree/main/fly-express-postgres)
 
 ### Basic NodeJS User Auth Videos
 
