@@ -1,8 +1,6 @@
 # JavaScript Essentials
 
-1. Basic Articulation
-
-   - [Articulation JavaScript Concepts And Terms](https://drive.google.com/file/d/16SwYDnrCakEFK25N_gAelEBRxQ-ceeMu/view?usp=share_link)
+1. [Articulation JavaScript Concepts And Terms](https://drive.google.com/file/d/16SwYDnrCakEFK25N_gAelEBRxQ-ceeMu/view?usp=share_link)
 
 1. Pass By Value vs Pass By Reference Concept
 
