@@ -21,3 +21,7 @@
 
 - [Stellar](https://youtu.be/weOyHa_LY10?t=1686)
 - [Zipline](https://youtu.be/weOyHa_LY10?t=2260)
+
+### Standout Full App Presentations
+
+- [Team Granny Grub](https://www.youtube.com/watch?v=zfFvOwphHqo&t=4994s)
